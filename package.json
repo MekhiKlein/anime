@@ -1,5 +1,5 @@
 {
-  "name": "animejs",
+*#"name": "animejs",
   "version": "3.2.1",
   "homepage": "http://animejs.com",
   "repository": "juliangarnier/anime",
@@ -36,3 +36,4 @@
     "uglify-js": "^3.3.4"
   }
 }
+ 
